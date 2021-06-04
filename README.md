@@ -14,4 +14,16 @@ NOTE: Make sure that you have Python version 3 or above on your computer. If not
 * Grasp some key concept of turtle command and Python
 * Develop an entertaining and short avatar of Among Us game using what you’ve learned
 
-While creating Avatar of Among us, we can use functions that can move the turtle around, such as **turtle.down(...)**, **turtle.right(...)**, and **turtle.forward(...)**. Some commonly used turtle methods are listed below:-
+While creating Avatar of Among us, we can use functions that can move the turtle around, such as <code>turtle.down(...)</code>, <code>turtle.right(...)</code>, and <code>turtle.forward(...)</code>. Some commonly used turtle methods are listed below:-
+
+## Plotting with turtle
+
+We need to import “turtle” in order to make use of turtle functionality and methods. “Turtle” is bundled with the standard package of python which and does not require an additional installation. 
+
+## Steps involved for executing a turtle program:
+
+* Import the module of turtle <br>
+<code> >>> import turtle  </code>
+* Create a turtle to control
+* Draw around with the techniques of turtle
+* Run <code>turtle.done()</code>
